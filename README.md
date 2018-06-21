@@ -1,1 +1,0 @@
-# shamaPortfolio.github.io
