@@ -162,14 +162,14 @@ var tovary = {
 
 }
 var lookBook = {
-	1:{ img: 'img/lookBook/1.jpg'},
-	2:{ img: 'img/lookBook/2.jpg'},
-	3:{ img: 'img/lookBook/3.jpeg'},
-	4:{ img: 'img/lookBook/4.jpg'},
-	5:{ img: 'img/lookBook/5.jpg'},
-	6:{ img: 'img/lookBook/6.jpg'},
-	7:{ img: 'img/lookBook/7.jpg'},
-	8:{ img: 'img/lookBook/8.jpg'}
+	1:{ img: 'img/lookbook/1.jpg'},
+	2:{ img: 'img/lookbook/2.jpg'},
+	3:{ img: 'img/lookbook/3.jpeg'},
+	4:{ img: 'img/lookbook/4.jpg'},
+	5:{ img: 'img/lookbook/5.jpg'},
+	6:{ img: 'img/lookbook/6.jpg'},
+	7:{ img: 'img/lookbook/7.jpg'},
+	8:{ img: 'img/lookbook/8.jpg'}
 }
 var slider = {
 	1:{img: 'img/slide_1.webp'},
